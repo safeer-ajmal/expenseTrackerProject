@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider files
+.idea/
+*.sln.iml
+
+# ASP.NET specific files
+project.lock.json
+project.fragment.lock.json
+*.db
+*.pdb
+*.mdb
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific files
+*.vs/
+*.db
+*.sln.docstates
+*.suo
+*.user
+*.userprefs
+
+# Visual Studio Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider files
+.idea/
+*.sln.iml
